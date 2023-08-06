@@ -1094,6 +1094,7 @@ margin-top: 10px;
     padding-top: var(--padding-section);
     padding-bottom: var(--padding-section);
     position: relative;
+    z-index: 1;
 
 }
 .event .container {
