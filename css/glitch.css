@@ -1215,6 +1215,9 @@ transition: 0.3s;
     bottom: 200px;
     left: 0;
 }
+.footer i {
+    color: var(--main-color);
+}
 /*End Event*/
 /* Start Price  */
 .price {
